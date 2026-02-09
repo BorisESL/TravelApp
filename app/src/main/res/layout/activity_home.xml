@@ -238,7 +238,7 @@
 
                     <!-- CARD 1: Alley Palace -->
                     <androidx.cardview.widget.CardView
-                        android:layout_width="188dp"
+                        android:layout_width="178dp"
                         android:layout_height="250dp"
                         android:layout_marginEnd="16dp"
                         app:cardCornerRadius="20dp"
@@ -319,7 +319,7 @@
                     <!-- CARD 2: Coeurdes Alpes -->
                     <androidx.cardview.widget.CardView
                         android:id="@+id/cardCoeurdesAlpes"
-                        android:layout_width="188dp"
+                        android:layout_width="178dp"
                         android:layout_height="250dp"
                         app:cardCornerRadius="20dp"
                         app:cardElevation="4dp">
