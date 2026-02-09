@@ -10,5 +10,5 @@
     <color name="text_secondary">#3A544F</color>
     <color name="bg_red">#EC5655</color>
     <color name="text_green">#2DD7A4</color>
-
+    <color name="yellow">#FFC107</color>
 </resources>

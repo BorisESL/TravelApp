@@ -16,9 +16,7 @@ public class MainActivity extends AppCompatActivity {
         EdgeToEdge.enable(this);
         setContentView(R.layout.activity_main);
 
-        // Opcional, ocultar barra de estado
-
-        // Buscar el boton, por el ID
+        // Buscar el botón por el ID
         MaterialButton btnExplore = findViewById(R.id.btnExplore);
 
         btnExplore.setOnClickListener(v -> {
